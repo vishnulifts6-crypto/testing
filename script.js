@@ -9,7 +9,7 @@ if (menu) {
 }
 
 // EmailJS Initialization
-emailjs.init("YOUR_PUBLIC_KEY");
+emailjs.init("RTw81Bs4TK3JUbef6");
 
 // Contact Form
 const form = document.getElementById("contactForm");
